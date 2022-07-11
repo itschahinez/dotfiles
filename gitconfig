@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mackychahinez@gmail.com
+	name = Chahinez Haddad
